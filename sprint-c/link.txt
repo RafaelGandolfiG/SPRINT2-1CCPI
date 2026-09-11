@@ -1,0 +1,14 @@
+link do repositorio
+https://github.com/RafaelGandolfiG/sprint2-C-1CCPI.git
+
+link do video
+https://youtu.be/b9C0yOn1toU
+
+Equipe 04 - 1CCPI
+
+Rafael Gandolfi Gonçalves - 569036 - 1CCPI
+Rafael Lins - 570588 - 1CCPI
+Cauã Paes - 569906 - 1CCPI
+Guilherme Miranda - 573107 - 1CCPI
+Carlos Eduardo - 572949 - 1CCPI
+João Pedro Soler - 569725 - 1CCPI
